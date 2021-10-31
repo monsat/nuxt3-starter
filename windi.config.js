@@ -1,6 +1,8 @@
+import { defineConfig } from 'windicss/helpers'
 import colors from 'windicss/colors'
+import plugin from 'windicss/plugin'
 
-export default {
+export default defineConfig({
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors: {
@@ -10,4 +12,4 @@ export default {
     },
   },
   plugins: [],
-}
+})
