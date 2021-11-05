@@ -1,10 +1,11 @@
-# Nuxt 3 Minimal Starter with VueUse and WindiCSS
+# Nuxt 3 Minimal Starter with VueUse, WindiCSS, and Pinia
 
 Documents
 
 * [Nuxt 3](https://v3.nuxtjs.org)
 * [VueUse](https://vueuse.org/)
 * [Windi CSS](https://windicss.org/)
+* [Pinia](https://pinia.esm.dev/)
 
 ## Clone
 

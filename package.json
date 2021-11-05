@@ -10,6 +10,8 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@vueuse/core": "^6.7.0"
+    "@pinia/nuxt": "^0.1.2",
+    "@vueuse/core": "^6.7.0",
+    "pinia": "^2.0.2"
   }
 }
