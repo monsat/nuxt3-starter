@@ -6,6 +6,20 @@ Documents
 * [VueUse](https://vueuse.org/)
 * [Windi CSS](https://windicss.org/)
 
+## Clone
+
+```bash
+git remote rename origin template  # origin → template
+gh repo create                     # Create your remote repository by GitHub CLI
+git push -u origin main            # Push to your repository
+```
+
+`template:main` : This repository  
+`origin:main` : Your remote repository
+
+> `gh` command by [GitHub CLI](https://cli.github.com/)  
+> or `git remote add origin ~~~`
+
 ## Setup
 
 Make sure to install the dependencies
