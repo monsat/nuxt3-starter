@@ -6,12 +6,12 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@pinia/nuxt": "^0.1.2",
+    "@vueuse/core": "^6.8.0",
     "nuxt-windicss": "^2.0.0",
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.1.2",
-    "@vueuse/core": "^6.7.0",
     "pinia": "^2.0.2"
   }
 }
